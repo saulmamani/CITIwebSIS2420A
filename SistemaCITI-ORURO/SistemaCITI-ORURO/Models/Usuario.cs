@@ -13,6 +13,7 @@ namespace SistemaCITI_ORURO.Models
 
         //un usuario registra muchos pagos
         // 1 ----- *
+        //solo  para ver cambios
         public virtual List<Pago>? Pagos { get; set; }
     }
 }
